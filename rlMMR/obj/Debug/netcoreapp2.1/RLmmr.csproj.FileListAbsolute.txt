@@ -1,0 +1,14 @@
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\bin\Debug\netcoreapp2.1\RLmmr.deps.json
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\bin\Debug\netcoreapp2.1\RLmmr.runtimeconfig.json
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\bin\Debug\netcoreapp2.1\RLmmr.runtimeconfig.dev.json
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\bin\Debug\netcoreapp2.1\RLmmr.dll
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\bin\Debug\netcoreapp2.1\RLmmr.pdb
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\obj\Debug\netcoreapp2.1\RLmmr.csprojAssemblyReference.cache
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\obj\Debug\netcoreapp2.1\RLmmr.csproj.CoreCompileInputs.cache
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\obj\Debug\netcoreapp2.1\RLmmr.RazorAssemblyInfo.cache
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\obj\Debug\netcoreapp2.1\RLmmr.RazorAssemblyInfo.cs
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\obj\Debug\netcoreapp2.1\RLmmr.AssemblyInfoInputs.cache
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\obj\Debug\netcoreapp2.1\RLmmr.AssemblyInfo.cs
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\obj\Debug\netcoreapp2.1\RLmmr.RazorTargetAssemblyInfo.cache
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\obj\Debug\netcoreapp2.1\RLmmr.dll
+C:\Users\Alfred\source\repos\RLmmr\RLmmr\obj\Debug\netcoreapp2.1\RLmmr.pdb
